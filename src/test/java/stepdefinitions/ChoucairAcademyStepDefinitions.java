@@ -5,9 +5,10 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
-import org.fluentlenium.core.search.Search;
 import sun.misc.Launcher;
+import tasks.Login;
 import tasks.OpenUp;
+import tasks.Search;
 
 public class ChoucairAcademyStepDefinitions {
 
@@ -16,15 +17,15 @@ public class ChoucairAcademyStepDefinitions {
 
     @Given("^than juan wants to learn automation at the academy choucair$")
     public void thanJuanWantsToLearnAutomationAtTheAcademyChoucair() {
-        OnStage.theActorCalled("juan").wasAbleTo(OpenUp.thePage());
+        OnStage.theActorCalled("juan").wasAbleTo(OpenUp.thePage(), (Login.OnThePage()));
 
 
     }
 
 
-    @When("^he search for the course Recursos Automatizacion Bancolombia on the choucair academy platform$")
-    public void heSearchForTheCourseRecursosAutomatizacionBancolombiaOnTheChoucairAcademyPlatform() {
-
+    @When("^he search for the course (.*) on the choucair academy platform$")
+    public void heSearchForTheCourseRecursosAutomatizacionBancolombiaOnTheChoucairAcademyPlatform(String course) {
+        OnStage.theActorInTheSpotlight().attemptsTo(Search.the(course));
     }
 
     @Then("^he finds the course called resources Recursos Automatizacion Bancolombia$")
