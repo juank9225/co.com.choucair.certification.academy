@@ -5,6 +5,9 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
+import org.fluentlenium.core.search.Search;
+import sun.misc.Launcher;
+import tasks.OpenUp;
 
 public class ChoucairAcademyStepDefinitions {
 
@@ -13,6 +16,8 @@ public class ChoucairAcademyStepDefinitions {
 
     @Given("^than juan wants to learn automation at the academy choucair$")
     public void thanJuanWantsToLearnAutomationAtTheAcademyChoucair() {
+        OnStage.theActorCalled("juan").wasAbleTo(OpenUp.thePage());
+
 
     }
 
