@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc788430-205f-4704-8baa-e7c33dac09e0" name="Default Changelist" comment="" />
+    <list default="true" id="cc788430-205f-4704-8baa-e7c33dac09e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/AcademyChoucairData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/questions/Answer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/AcademyChoucairData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tasks/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tasks/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/userinterface/SearchCoursePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/userinterface/SearchCoursePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/stepdefinitions/ChoucairAcademyStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/stepdefinitions/ChoucairAcademyStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Academy#20choucair.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Academy#20choucair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/runners.RunnerTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/runners.RunnerTags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Academy#20choucair.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Academy#20choucair.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-runners.RunnerTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-runners.RunnerTags.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ChoucairAcademyStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ba3bee52f70a3761eeeda8bcf0a9d54795f0280f7fb479c46da4b089f12a5e44.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ba3bee52f70a3761eeeda8bcf0a9d54795f0280f7fb479c46da4b089f12a5e44.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ba3bee52f70a3761eeeda8bcf0a9d54795f0280f7fb479c46da4b089f12a5e44.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ba3bee52f70a3761eeeda8bcf0a9d54795f0280f7fb479c46da4b089f12a5e44.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ba3bee52f70a3761eeeda8bcf0a9d54795f0280f7fb479c46da4b089f12a5e44.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ba3bee52f70a3761eeeda8bcf0a9d54795f0280f7fb479c46da4b089f12a5e44.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +127,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,0 +1,35 @@
+[33mcommit 8d098c52c2efe37bc6f60b191e3c09d9536400ee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Juan Carlos Salcedo <juank9225@gmail.com>
+Date:   Fri Jan 15 23:17:47 2021 -0500
+
+    question
+
+[33mcommit ff7b9b73cfe352d71301ced186c71831906f74d5[m
+Author: Juan Carlos Salcedo <juank9225@gmail.com>
+Date:   Fri Jan 15 16:53:19 2021 -0500
+
+    prueba Bancolombia Identificar y Mapear
+
+[33mcommit 7214db772bb1fcda93326de0680548bfafebc430[m
+Author: Juan Carlos Salcedo <juank9225@gmail.com>
+Date:   Fri Jan 15 14:18:35 2021 -0500
+
+    implementacion de tareas
+
+[33mcommit c0d465f63d0f274761617e176c3fcc8b2d6ad2ac[m
+Author: Juan Carlos Salcedo <juank9225@gmail.com>
+Date:   Fri Jan 15 12:15:15 2021 -0500
+
+    patron Screenplay
+
+[33mcommit f122b9a11f85d33a13850219dc6f10785d9bdd68[m
+Author: Juan Carlos Salcedo <juank9225@gmail.com>
+Date:   Fri Jan 15 11:22:00 2021 -0500
+
+    feature StepDefinition
+
+[33mcommit 588703bd94a991c9bd2de9b897f13388a0565057[m
+Author: Juan Carlos Salcedo <juank9225@gmail.com>
+Date:   Fri Jan 15 10:46:12 2021 -0500
+
+    configuracion inicial modelo screenplay
